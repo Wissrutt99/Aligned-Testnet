@@ -7,7 +7,7 @@
 
 - Install Script below
 ```bash
-wget https://raw.githubusercontent.com/Wissrutt99/Aligned-Testnet/main/aligned.sh && chmod +x alliged.sh && ./alliged.sh
+wget https://raw.githubusercontent.com/Wissrutt99/Aligned-Testnet/main/aligned.sh && chmod +x aligned.sh && ./aligned.sh
 ```
 
 - Copy Alignedlayer Explorer link from terminal
