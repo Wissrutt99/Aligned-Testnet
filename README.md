@@ -1,8 +1,8 @@
 # Aligned-Testnet
 
-- Go to [Gitpod](https://gitpod.io/workspaces) and Create ***New workspace*** or Use VPS or Your Linux 
+- Go to [Gitpod](https://gitpod.io/workspaces) and Create ***New workspace*** 
 
-- Paste ```https://github.com/Wissrutt99/Aligned-Testnet.git``` in Repository section ( For Gitpod )
+- Paste ```https://github.com/Wissrutt99/Aligned-Testnet.git``` in Repository section
 
 
 - Install Script below
