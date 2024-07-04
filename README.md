@@ -1,17 +1,14 @@
 # Aligned-Testnet
 
-- Go to [Gitpod](https://gitpod.io/workspaces) and Create ***New workspace*** 
-
-- Paste ```https://github.com/Wissrutt99/Aligned-Testnet.git``` in Repository section
-
-
+- Start Linux Terminal 
 - Install Script below
 ```bash
 wget https://raw.githubusercontent.com/Wissrutt99/Aligned-Testnet/main/aligned.sh && chmod +x aligned.sh && ./aligned.sh
 ```
 
-- Copy Alignedlayer Explorer link from terminal
-- Post tweet in the below format :
+- Copy Alignedlayer Explorer link from terminal and Post tweet in the below format
+
+
 ```bash
 I just submitted a proof via @alignedlayer
 
